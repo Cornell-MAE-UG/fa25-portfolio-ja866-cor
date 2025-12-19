@@ -6,9 +6,10 @@ title: Jackie Antelo
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic-ja.jpg" | relative_url }})
+![Profile Picture]({{ r"assets\images\profile-pic-ja.jpg" | relative_url }})
 
  
 My name is {{ site.name }}, and I am an undergraduate sophomore pursing Mechanical Engineering at Cornell University. [your pitch paragraph about your passions, knowledge and interestst.] 
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+
